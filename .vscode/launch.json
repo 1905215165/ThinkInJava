@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataOnlyTest",
+            "request": "launch",
+            "mainClass": "DataOnlyTest",
+            "projectName": "java_test_11f7d214"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ATypeNameTest",
+            "request": "launch",
+            "mainClass": "ATypeNameTest",
+            "projectName": "java_test_11f7d214"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java_test_11f7d214"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello_world",
+            "request": "launch",
+            "mainClass": "hello_world"
+        }
+    ]
+}
